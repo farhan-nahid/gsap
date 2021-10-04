@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simple-gsap/static/css/main.fcfe76c3.chunk.css",
+    "main.js": "/simple-gsap/static/js/main.77e93214.chunk.js",
+    "main.js.map": "/simple-gsap/static/js/main.77e93214.chunk.js.map",
+    "runtime-main.js": "/simple-gsap/static/js/runtime-main.50b17276.js",
+    "runtime-main.js.map": "/simple-gsap/static/js/runtime-main.50b17276.js.map",
+    "static/js/2.b7c6688c.chunk.js": "/simple-gsap/static/js/2.b7c6688c.chunk.js",
+    "static/js/2.b7c6688c.chunk.js.map": "/simple-gsap/static/js/2.b7c6688c.chunk.js.map",
+    "static/js/3.d8401d18.chunk.js": "/simple-gsap/static/js/3.d8401d18.chunk.js",
+    "static/js/3.d8401d18.chunk.js.map": "/simple-gsap/static/js/3.d8401d18.chunk.js.map",
+    "index.html": "/simple-gsap/index.html",
+    "static/css/main.fcfe76c3.chunk.css.map": "/simple-gsap/static/css/main.fcfe76c3.chunk.css.map",
+    "static/js/2.b7c6688c.chunk.js.LICENSE.txt": "/simple-gsap/static/js/2.b7c6688c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/simple-gsap/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50b17276.js",
+    "static/js/2.b7c6688c.chunk.js",
+    "static/css/main.fcfe76c3.chunk.css",
+    "static/js/main.77e93214.chunk.js"
+  ]
+}
